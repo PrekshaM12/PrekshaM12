@@ -12,6 +12,8 @@
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Preksha%20Mathur-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/preksha-mathur/)
 [![Email](https://img.shields.io/badge/Email-mathurpreksha12@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mathurpreksha12@gmail.com)
+[!Portfolio](https://img.shields.io/badge/Portfolio-https://www.prekshamathur.com-green?style=for-the-badge&logo=email)(https://www.prekshamathur.com)
+
 
 </div>
 
