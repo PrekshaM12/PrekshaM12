@@ -48,7 +48,7 @@
 - 📝 **DISHA** - Grad App Management System
 - 🤟 **Indian Sign Language Detection** using Deep Learning
 
-[👉 Explore my repositories here]((https://github.com/PrekshaM12?tab=repositories))
+[👉 Explore my repositories here](https://github.com/PrekshaM12?tab=repositories)
 
 ---
 
